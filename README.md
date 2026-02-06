@@ -28,5 +28,5 @@ Final points: 5
 
 ----------------------------
 ### Final results
-Final f1 score: 0.9574
+Final f1 score: 0.9574 <br>
 Final points: 5/5
